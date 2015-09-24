@@ -1,8 +1,0 @@
-info:
-  component: Front of China Server
-
-server:
-  port: 8820
-endpoints:
-  restart:
-    enabled: true
