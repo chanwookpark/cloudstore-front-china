@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: front-china
+  cloud:
+    config:
+      uri: http://localhost:8810
