@@ -16,7 +16,7 @@ public class ProductViewController {
     ProductResourceClient client;
 
     @RequestMapping("/product/{productId}")
-    public String getProductJson(@PathVariable String productId, ModelMap model) {
+    public String getProduct(@PathVariable String productId, ModelMap model) {
         final ProductResource product = client.getProduct(productId);
         model.put("product", product);
         return "product";
