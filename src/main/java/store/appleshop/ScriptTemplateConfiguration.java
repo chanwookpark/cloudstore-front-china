@@ -1,4 +1,4 @@
-package io.cloudstore.front.china;
+package store.appleshop;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

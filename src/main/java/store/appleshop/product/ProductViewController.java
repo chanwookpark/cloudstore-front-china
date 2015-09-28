@@ -1,4 +1,4 @@
-package io.cloudstore.front.china.product;
+package store.appleshop.product;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

@@ -1,4 +1,4 @@
-package io.cloudstore.front.china;
+package store.appleshop;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
@@ -9,12 +9,12 @@ import org.springframework.core.env.Environment;
  * @author chanwook
  */
 @SpringBootApplication
-public class FrontChinaApplication {
+public class AppleShopApplication {
 
     @Autowired
     Environment env;
 
     public static void main(String[] args) {
-        SpringApplication.run(FrontChinaApplication.class, args);
+        SpringApplication.run(AppleShopApplication.class, args);
     }
 }

@@ -1,6 +1,6 @@
 spring:
   application:
-    name: front-china
+    name: store-appleshop
   cloud:
     config:
       uri: http://localhost:8810

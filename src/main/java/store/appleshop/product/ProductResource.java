@@ -1,4 +1,4 @@
-package io.cloudstore.front.china.product;
+package store.appleshop.product;
 
 import java.io.Serializable;
 

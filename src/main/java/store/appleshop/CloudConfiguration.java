@@ -1,4 +1,4 @@
-package io.cloudstore.front.china;
+package store.appleshop;
 
 import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;

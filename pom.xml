@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.cloudstore</groupId>
-    <artifactId>cloudstore-front-china</artifactId>
+    <artifactId>store-appleshop</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
